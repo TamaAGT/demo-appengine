@@ -3,5 +3,4 @@ steps:
   args:
   - "app"
   - "deploy"
-  - "app.yaml"
-  - "--image-url=gcr.io/prak-tcc-d/my-app"
+
